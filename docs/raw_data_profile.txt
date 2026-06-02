@@ -1,0 +1,10 @@
+RetailPulse — Raw Data Profile
+========================================
+Total rows       : 1,067,371
+Total columns    : 9
+Date range       : 2009-12-01 to 2011-12-09
+Unique customers : 5,942
+Unique products  : 5,305
+Unique invoices  : 53,628
+Return invoices  : 19,494
+Missing Cust. ID : 243,007
